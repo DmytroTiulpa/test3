@@ -1,11 +1,3 @@
-<?php
-/*require_once('php/Db.php');
-require_once('php/Users.php');
-$db = new Db;
-$conn = $db->connToMYSQL();
-$users = new Users;
-$allUsers = $users->getAllUsers($conn);*/
-?>
 <!doctype html>
 <html lang="en">
 <head>
